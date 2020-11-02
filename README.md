@@ -14,3 +14,4 @@ Execução de exercícios de treino do curso Python Fundamentos para Análise de
 * Random
 * Sqlite3
 * Pymongo
+* TensorFlow
